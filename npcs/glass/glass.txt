@@ -1,1 +1,6 @@
 glass plans:
+
+- the tutorial explainer person
+- Object ghost
+- Hourglass cloak
+- 60s vibes

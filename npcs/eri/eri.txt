@@ -1,0 +1,7 @@
+eri plans:
+
+- animal spirit (black cat)
+- Reference FNAF UCN phone guy
+- Randomly appears on player screens
+- Player has to give her a treat within 5 seconds or a debuff occurs
+- If player gives treat within 5 seconds, they get [x] coins and a 1 in 5 chance to get a key
